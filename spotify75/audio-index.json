@@ -1,0 +1,42 @@
+[    
+    {
+        "id": "cd",
+        "name": "第一次愛的人",
+        "artist": "Cyndi Wang",
+        "album": "愛你",
+        "audpath": "https://index.wileylau.workers.dev/download.aspx?file=NxRQQu6l8t0N9YmoCJF80yInfOCrQks0RaQDEdY8bJX%2F4M9R4ACt2e8J0sSWPA9x&expiry=KVM%2FvEfkx93Efon%2FEBKLAw%3D%3D&mac=7f3745bdee7ed99852e7b03c918e3fc8e2a37770c72eb87307bb32e1caab28b7",
+        "artpath": "https://index.wileylau.workers.dev/download.aspx?file=WGeCsVkMXxOiAX%2FoXIodkznrozqiBR%2F%2BLo5WL6lfeaKP6MohHpkstjc1YoiN1qPK&expiry=wdO2AhWIZlp0%2BjOtCU89cA%3D%3D&mac=28015b0f0f419d5f18b577a852ec245118599bb8b9c25a8e302f0838adbc24ca",
+        "lrcpath": "https://index.wileylau.workers.dev/download.aspx?file=mcEoe4n7exifFc9W2UObHCyf6ea%2FAmzrZSms3HS8oQtCHUWQGLLri326MwTQHHgO&expiry=VrjCYKklfRifBEw5LA6BKQ%3D%3D&mac=2a34a34cc7e9d5327a1fa7df658eaa80d1136d5b738cc1643db4492afeef5860"
+    },
+
+    {
+        "id": "starlight",
+        "name": "星空",
+        "artist": "五月天",
+        "album": "第二人生 (末日版)",
+        "audpath": "https://index.wileylau.workers.dev/download.aspx?file=BOYzgeAAHbOabaiBE8aibX23n0wVAmYVFSPD1721DymbuHuMTsE5XJVuSXRRQDJP&expiry=1EPUM6U%2FY9leGlHGMXDZWQ%3D%3D&mac=ea5e52dc4381e5d21768c16d25b7adbe09a316fb69848869eb794be8e6abf450",
+        "artpath": "https://index.wileylau.workers.dev/download.aspx?file=ipQ1%2FJM4eswYvnsQaK7s1Q8K6GJwqsnneAAxVcR9t0yJMTI%2F5iSk0QZeVW8%2B4wDF&expiry=lDM%2FbqnHQokn1B6LtosjHg%3D%3D&mac=11bf74f5d43d1c66ec982de212f2ae8c94620ab55a1829c71cf9a5dc97cc7fc0",
+        "lrcpath": "https://index.wileylau.workers.dev/download.aspx?file=XqgmPWoD2OdLDF2Z67vm5XuQx7CkXnSWPZjl31PyodawiWQqVo1PjPJtJ982tg7y&expiry=P6vNRj6O%2BRcxyEMKsoyBYA%3D%3D&mac=2a37f88b2eb85da6da0c4221cfc3b8b91fbe3ebe72ca0a4ac0285fdcd1f51d1e",
+        "color_override": "#596d22"
+    },
+
+    {
+        "id": "goodbye",
+        "name": "匆匆那年 - Live",
+        "artist": "Leo Ku",
+        "album": "我是歌手第三季 (第六期 Live)",
+        "audpath": "https://index.wileylau.workers.dev/download.aspx?file=H%2FkkEhybP0zGlSlTJay6g0wPAVlpNtWTJtG9zdzZUiqOsNBve01PdHg5iVz7jEVr&expiry=3VT65S9OpLfW9pZN1oy3SA%3D%3D&mac=4d46a75c29199734f50501743b67ea7216d5e38c2d099896222775aa09dd88cf",
+        "artpath": "https://index.wileylau.workers.dev/download.aspx?file=bYEKdmLI%2BFuaqUxpNtUUbxN22MfAWX6v5qvFwsLF0sW5o4Zimek5rqh7eUJ3yIqv&expiry=jjpRQBs5ZFoGeD%2FfpVBdkA%3D%3D&mac=7b7dd07e6658239c2a888aae50f5b1851851250805757161c50283ab4c7fda0e",
+        "lrcpath": ""
+    },
+
+    {
+        "id": "lastdance",
+        "name": "Last Dance",
+        "artist": "YOUHA",
+        "album": "love you more,",
+        "audpath": "https://index.wileylau.workers.dev/download.aspx?file=VWOkmJnzfb3hLTk7YKhSXr8fqDkBPgVsV%2BEKkmd9PDPKVC8SV5qghqnr8g4tkc64&expiry=%2FwJDP0Pm9V3HyvdFnnBoXA%3D%3D&mac=46cde7e4b308a4d37f2d9aca1d921bf2cb372d129a73a7babad118882d93f361",
+        "artpath": "https://index.wileylau.workers.dev/download.aspx?file=aW7Rzk5tJoDtqi%2BIwjtLA4%2BLTW2SRzYv5O7S2iZgZ2nsHllyW2vleNIQ1QyqspuA&expiry=%2F7a4B77jxiU21Z%2Foc7pieg%3D%3D&mac=84684914962e1b679a9fbcaba7a31f06139b12b74ea00a1898ea8a3277eac654",
+        "lrcpath": ""
+    }
+]
